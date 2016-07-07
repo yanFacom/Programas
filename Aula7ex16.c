@@ -4,6 +4,7 @@ int main()
 {	
 	int comeco, c, m, i;
 
+	printf ("Digite um numero m: ");
 	scanf ("%d", &m);
 
 	
