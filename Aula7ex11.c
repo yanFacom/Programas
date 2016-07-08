@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main ()
 {
-    int n, i, soma, c;
+    int n, i, soma, c = 0;
     printf ("digite a qtd de sequencias:  ");
     scanf ("%d", &n);
     printf ("digite as sequencias, cada uma terminando em 0:");
